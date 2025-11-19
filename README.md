@@ -1,4 +1,9 @@
-# n1-raul
-Segunda parte da N1 - Sistema de Informação
-Professor: Raul Pavani
-Grupo: Caio Fergulha, Bruno Goes e Lucca Cardoso
+# Projeto em C
+
+## 👥 Integrantes do Grupo
+- Caio Fergulha
+- Bruno Goes
+- Lucca Cardoso
+
+
+gcc programa.c -o programa

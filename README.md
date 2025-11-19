@@ -6,10 +6,6 @@
 - Lucca Cardoso
 
 
-gcc programa.c -o programa
-
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
